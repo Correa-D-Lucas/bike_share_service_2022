@@ -11,7 +11,7 @@
 
 The Historical Trip Data has been gathered by Divvy, a program of the Chicago Department of Transportation (CDOT), which owns the city’s bikes, stations and vehicles. It is public for use and provided according to the Divvy Data License Agreement and released on a monthly schedule. 
 
-Click here for Data Licence Agreement website: https://ride.divvybikes.com/data-license-agreement
+Click here for Data License Agreement website: https://ride.divvybikes.com/data-license-agreement
 
 For more information, go to https://ride.divvybikes.com/system-data 
 
